@@ -24,7 +24,7 @@
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![Check Resources](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
 
-Voici une liste de ressources pour les contributeurs novices de l'Open Source.
+Voici une liste de ressources pour les contributeurs au novices de l'Open Source.
 
 Si vous trouvez des ressources additionnelles, veuillez ajouter une contribution (`pull request`).
 
@@ -61,7 +61,7 @@ Si vous avez des questions ou commentaires, veuillez créer un ticket.
 - [Contribuer à l'Open Source: Un guide de A à Z](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - ce guide couvre tous les aspects de la contribution Open Source, de la recherche d'un projet approprié à la résolution d'`issues`, en passant par l'intégration de `pull requests`.
 - ["Comment contribuer à l'Open Source" par Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - l'autrice entre dans les détails de la contribution Open Source sur GitHub. 
 - ["Comment se lancer dans l'Open Source" par Sayan Chowdhury](https://hackerearth.com/getstarted-opensource/) - cet article aborde les ressources à disposition des débutants pour la contribution aux projets Open Source sur base de leur langage informatique préféré.
-- ["Parcourir de bonnes premières `issues` pour se lancer dans l'Open Source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - GitHub offre désormais la possibilité aux novices de trouver des `issues` adaptés à leur niveau pour se lancer dans la contribution Open Source.
+- ["Parcourir des bonnes premières `issues` pour se lancer dans l'Open Source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - GitHub offre désormais la possibilité aux novices de trouver des `issues` adaptés à leur niveau pour se lancer dans la contribution Open Source.
 - ["Comment contribuer aux projets Open Source" par Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) -  cet article exhaustif s'adresse aux entreprises (mais reste utile pour les contributeurs individuels) et explique pourquoi et comment contribuer à des projets Open Source.
 
 ## Recherches directes sur GitHub
@@ -138,7 +138,7 @@ Si vous avez des questions ou commentaires, veuillez créer un ticket.
 
 
 ## Initiatives de contributions à l'Open Source
-> Listes d'initiatives qui font l'agglomération de « issues » qui sont faciles de contribuer pour un débutant ou des évènements saisonniers.
+> Listes d'initiatives qui font l'agglomération de « issues » qui sont faciles a contribuer pour un débutant ou des évènements saisonniers.
 - [Up For Grabs](http://up-for-grabs.net/#/) - ("Bon à prendre") Contient des projets avec des bugs accessibles aux novices.
 - [First Timers Only](http://www.firsttimersonly.com/) - ("Débutants seulement") Une liste de bugs indiqués comme "first-timers-only".
 - [First Contributions](https://firstcontributions.github.io/) - ("Premières contributions") Effectuez votre première contribution à l'Open Source en 5 minutes. Un outil et tutoriel pour aider les débutants à se lancer dans les contributions.
